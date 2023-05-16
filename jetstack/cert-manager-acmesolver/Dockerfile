@@ -1,1 +1,1 @@
-FROM cert-manager-acmesolver
+FROM quay.io/jetstack/cert-manager-acmesolver
