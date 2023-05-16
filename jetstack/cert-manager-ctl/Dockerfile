@@ -1,0 +1,1 @@
+FROM cert-manager-ctl
